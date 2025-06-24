@@ -1,8 +1,8 @@
 Overview
-This is a simple and interactive Quiz Application where users can answer multiple-choice questions, receive instant feedback, and track their scores. This project demonstrates frontend development, state management, and interactive UI design.
+This is a simple and interactive Quizzing site where users can answer multiple-choice questions, receive instant feedback, and track their scores. This project demonstrates frontend development, state management, and interactive UI design.
 
 Features
-Multiple categories of quizzes
+Multiple questions
 Score tracking
 Responsive and user-friendly interface
 
